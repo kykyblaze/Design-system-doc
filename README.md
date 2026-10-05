@@ -11,6 +11,9 @@ Node URL.
 
 The agent studies each component's variants, properties, states, and styling, then drafts usage guidelines, a properties table, dos and don'ts, and accessibility notes. It **never writes to Figma until you explicitly approve the draft**.
 
+## Pro Tip
+Output can be converted into an interactive page for build
+
 ---
 
 ## Features
