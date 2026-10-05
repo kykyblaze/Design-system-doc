@@ -41,7 +41,7 @@ For each component:
 
 - An AI agent that supports the `SKILL.md` skill format (e.g. Claude, Antigravity, or similar agents that load skills from a folder).
 - **A Figma MCP server** so the agent can read Figma files.
-- *(Optional)* A **write-capable** Figma tool if you want the approved docs pushed back into Figma. Read-only tools like Framelink can't write. If no write tool is available, the agent will offer to export the doc instead (Markdown/PDF/Word, component descriptions to paste, or content for a documentation plugin).
+- *(Optional)* A **write-capable** Figma tool if you want the approved docs pushed back into Figma. If no write tool is available, the agent will offer to export the doc instead (Markdown/PDF/Word, component descriptions to paste, or content for a documentation plugin).
 
 > **Non-Figma sources:** if you share a Storybook or documentation site link, the agent fetches the page and follows the same workflow.
 
