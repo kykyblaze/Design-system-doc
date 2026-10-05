@@ -2,7 +2,14 @@
 
 An AI agent skill that turns a link to a group of design system components into documentation designers can act on.
 
-Share a Figma file, Storybook link, page, frame, or node URL. The agent studies each component's variants, properties, states, and styling, then drafts usage guidelines, a properties table, dos and don'ts, and accessibility notes. It **never writes to Figma until you explicitly approve the draft**.
+Share a: 
+Figma file
+Storybook link
+Page
+Frame
+Node URL. 
+
+The agent studies each component's variants, properties, states, and styling, then drafts usage guidelines, a properties table, dos and don'ts, and accessibility notes. It **never writes to Figma until you explicitly approve the draft**.
 
 ---
 
